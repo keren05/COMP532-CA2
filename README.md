@@ -1,4 +1,4 @@
-# COMP532 — Machine Learning with Bioinspired Optimisation: Coursework Assignment 2 (CA-2)
+# COMP532 — Coursework Assignment 2 (CA-2)
 
 Repository Contents
 COMP532-CA2/
