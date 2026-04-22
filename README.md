@@ -5,7 +5,7 @@ COMP532-CA2/
 ├── README.md                          
 ├── COMP532_CA2_REPORT.docx            
 ├── LunarLander.ipynb      
-└── Chess_Extension.ipynb  
+└── chess_rl_agent.ipynb  
 
 Problem 1 — Deep Reinforcement Learning: LunarLander-v3
 Algorithm
